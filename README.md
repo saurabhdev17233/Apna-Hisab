@@ -1,5 +1,5 @@
-# Apna-Hisab
-#🧠 Overview
+ # Apna-Hisab
+ 🧠 Overview
 
 Apna Hisab is a smart personal finance management application designed to help users automatically track their daily expenses and income with minimal manual effort.
 The app focuses on simplicity, automation, and privacy, making it especially useful for students, working professionals, and small households.
@@ -11,7 +11,7 @@ The goal of Apna Hisab is simple:
 “Let users focus on their life, while Apna Hisab takes care of their money records.”
 
 
-#🎯 Problem Statement
+ 🎯 Problem Statement
 
 -Managing personal finances is difficult because:
 
@@ -27,7 +27,7 @@ The goal of Apna Hisab is simple:
 
 
 
-#✅ Solution Provided by Apna Hisab
+ ✅ Solution Provided by Apna Hisab
 
 Apna Hisab solves these problems by:
   
@@ -42,7 +42,7 @@ Apna Hisab solves these problems by:
   -Showing clean summaries and insights
 
 
-#📊 Categories Supported
+ 📊 Categories Supported
 
   -Food & Dining
 
@@ -61,7 +61,7 @@ Apna Hisab solves these problems by:
   -Miscellaneous
 
 
-#🏁 Conclusion
+ 🏁 Conclusion
 
 Apna Hisab is a practical, privacy-focused, and intelligent finance management app that bridges the gap between automation and simplicity.
 It is designed to be:
